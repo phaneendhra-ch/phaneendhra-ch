@@ -6,7 +6,7 @@
 
 :telescope: My Interests : Data Science Enthusiast, Backend Developer (Python). <br />
 
-:play_or_pause_button: I'm currently working as Software Engineer Trainee in Embedded Field. <br />
+:play_or_pause_button: I'm currently working as Software Engineer Trainee in an Embedded Company. <br />
 
 ## Connect Me On:
 <a href="https://in.linkedin.com/in/phaneendhra-chinta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
