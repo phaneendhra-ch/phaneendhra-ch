@@ -6,7 +6,7 @@
 
 :telescope: My Interests : Data Science and Backend Developer (Python). <br />
 
-:play_or_pause_button: I'm currently working as Software Engineer Trainee on Embedded Domain. <br />
+:play_or_pause_button: I'm currently working as Software Engineer. <br />
 
 ## Connect Me On:
 <a href="https://in.linkedin.com/in/phaneendhra-chinta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
@@ -22,6 +22,7 @@
 
 ## Technical Tools and Languages:
 <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img></a>
+<a><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></img></a>
