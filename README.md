@@ -1,7 +1,6 @@
 # Hi There :wave:!
 
-:standing_man: Myself **Phaneendhra** and I'm a **Software Engineer** :india: <br />
-![](https://visitor-badge.laobi.icu/badge?page_id=phaneendhra-ch.phaneendhra-ch) <br />
+:standing_man: Myself **Phaneendhra** and I'm a **Software Engineer** :india: &emsp; ![](https://visitor-badge.laobi.icu/badge?page_id=phaneendhra-ch.phaneendhra-ch) <br />
 
 :technologist: My Hobbies : I'm a PC Gamer, Competitve Programmer (5:star: HackerRank Python) and Music Lover <br />
 
@@ -27,8 +26,8 @@
 <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img></a>
-<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="30" style="vertical-align:top; margin:4px"></a>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
 <a><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></img></a>
