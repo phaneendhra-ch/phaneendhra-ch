@@ -1,6 +1,6 @@
 # Hi There :wave:!
 
-:standing_man: Myself **Phaneendhra** and I'm a **Software Engineer** :india: &emsp; ![](https://visitor-badge.laobi.icu/badge?page_id=phaneendhra-ch.phaneendhra-ch) <br />
+:standing_man: Myself **Phaneendhra** and I'm a **Software Engineer** :india: &emsp; <!--![](https://visitor-badge.laobi.icu/badge?page_id=phaneendhra-ch.phaneendhra-ch) --><br />
 
 :technologist: My Hobbies : I'm a PC Gamer, Competitve Programmer (5:star: HackerRank Python) and Music Lover <br />
 
@@ -14,7 +14,8 @@
 <a href="https://in.linkedin.com/in/phaneendhra-chinta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
 <a href="https://www.facebook.com/phani401"><img src="https://camo.githubusercontent.com/ae469df0ca892760cf6edd0c12b154d6d18dd56c019ad0fc12d881c17d3db3d3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d46616365626f6f6b26636f6c6f723d313837374632266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d464646464646266c6162656c3d"></img></a>
 
-## Past Work Experience:
+## Work Experience:
+* Currently Working as **Software Engineer-1** at **ThunderSoft LTD (QualComm)**, Hyderabad, India.
 
 * Worked as **Python Developer Intern** at **Aapoon Digital Private Limited**, Hyderabad, India.
 
