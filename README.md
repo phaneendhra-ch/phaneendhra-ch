@@ -38,5 +38,5 @@
 <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img></a>
 
 
-### 📈 Stats:
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phaneendhra-ch&langs_count=9&theme=github_dark)
+<!--### 📈 Stats:
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phaneendhra-ch&langs_count=9&theme=github_dark)-->
