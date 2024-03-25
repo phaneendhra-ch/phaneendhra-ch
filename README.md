@@ -8,7 +8,7 @@
 
 :play_or_pause_button: I'm currently working as Software Engineer. <br />
 
-:point_right: I'm Currently learning JavaScript and ReactJS FrameWork. <br />
+<!--:point_right: I'm Currently learning JavaScript and ReactJS FrameWork. <br />-->
 
 ## Connect Me On:
 <a href="https://in.linkedin.com/in/phaneendhra-chinta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
